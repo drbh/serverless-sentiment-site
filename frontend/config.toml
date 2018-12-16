@@ -1,0 +1,55 @@
+baseURL = "https://lgaida.github.io/"
+languageCode = "en-us"
+title = "News Sentiment"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "David Holtz - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "/images/logo.png"
+  description ="How do they feel?"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "John Doe"
+  thumbnail = "/images/author.png"
+  description = "Creator of this blog."
+
+[params.index]
+  # picture = "/images/author.png"
+  title = "News Sentiment"
+  # subtitle = "View the blog"
+#   mdtext = '''
+# This is an opensource project that is serverless and runs on AWS Lambda and Compehend
+# '''
+  buttontext='Go to News'
+  alertbar = false
+
+[params.social]
+  github = "<username>"
+  # linkedin = "<username>"
+  # xing = "<username>"
+  medium = "<username>"
+  # twitter = "<username>"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
+# [[menu.main]]
+#     name = "Imprint"
+#     identifier = "imprint"
+#     weight = 200
+#     url = "/static/imprint"

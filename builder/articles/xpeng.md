@@ -1,0 +1,11 @@
+---
+title: "Xpeng CEO on China's Electric Car Market, Tesla Competition - Bloomberg" 
+date: Wed, 12 Dec 2018 16:28:00 GMT
+publishdate: Wed, 12 Dec 2018 16:28:00 GMT
+image: "" 
+tags: ["Bloomberg"] 
+comments: false 
+positive_sentiment: "2" 
+---
+# Xpeng CEO on China's Electric Car Market, Tesla Competition - Bloomberg
+&lt;a href="https://www.bloomberg.com/news/videos/2018-12-12/xpeng-ceo-on-china-s-electric-car-market-tesla-competition-video" target="_blank"&gt;Xpeng CEO on China's Electric Car Market, Tesla Competition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bloomberg&lt;/font&gt;&lt;p&gt;He Xiaopeng, chairman and chief executive officer at XPENG Motors, discusses the company's strategy in China's electric car market. He speaks with ...&lt;/p&gt;
